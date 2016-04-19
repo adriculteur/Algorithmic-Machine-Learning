@@ -1,0 +1,2 @@
+Possible improvements:
+	- define other featurization of the feature vector
